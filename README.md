@@ -1,6 +1,4 @@
 # Todo
-## Overview
-This is my second app, a Todo.
 
 ## Overview
 
